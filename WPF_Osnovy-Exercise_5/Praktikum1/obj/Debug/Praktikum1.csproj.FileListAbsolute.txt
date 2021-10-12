@@ -1,0 +1,15 @@
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\bin\Debug\Praktikum1.exe.config
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\bin\Debug\Praktikum1.exe
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\bin\Debug\Praktikum1.pdb
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.csprojAssemblyReference.cache
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\MainWindow.g.cs
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\App.g.cs
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1_MarkupCompile.cache
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1_MarkupCompile.lref
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\MainWindow.baml
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.g.resources
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.Properties.Resources.resources
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.csproj.GenerateResource.cache
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.csproj.CoreCompileInputs.cache
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.exe
+C:\Users\shast\OneDrive\Рабочий стол\4 курс\ТРПО\WPF_Osnovy-Exercise_5\Praktikum1\obj\Debug\Praktikum1.pdb
